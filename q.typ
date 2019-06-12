@@ -233,7 +233,7 @@ T:
  :
  :The colon (:) introduces a list and is followed by two spaces.  Finger usage:
  :
- : 'j' for 'y', 'f' for 'r', 'k' for ',', 'd' for 'c', ';' for '?', 'p' and ':'
+ : 'j' for 'y', 'f' for 'c' and 'r', 'k' for ',', ';' for '?', 'p' and ':'
 
 I:(1) Rhythm Drill
 *:_Q_R_L22
@@ -314,8 +314,8 @@ T:
  :
  :The semicolon (;), like the comma, is followed by one space in a sentence.
  :
- :Fingers:  'j' for 'm', 's' for 'w' and 'x', 'f' for 'v' and 'b',
- :';' for ' and '-', 'a' for 'z' and 'q'
+ :Fingers:  'j' for 'm', 's' for 'w', 'f' for 'v', 's' for 'z',
+ :'f' or 'j' for 'b', 'd' for 'x', 'a' for 'q', ';' for ' and '-'
 
 I:(1) Rhythm Drill
 *:_Q_R_L34
