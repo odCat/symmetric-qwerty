@@ -513,7 +513,7 @@ D:fgf jhj k,k l.l A;A F;F E;E
  :lol ;p; JaJ :a: ftf jnj ;:;
  :jug ton knot poison the neither often
 
-I:Use your F-finger for the B-key.
+I:Both, F and J fingers, can be used for the B-key.
 *:_T_R_L83
 D:fff fbf fff bbb fff fbf fff
 
@@ -573,7 +573,7 @@ D:juj ded kik frf lol fgf ;p; jhj
 *:_T_R_L92
 D:ftf jnj ftf jnj fbf juj ;?; l.l k,k
 
-I:Use your D-finger for the C-key.
+I:Use your F-finger for the C-key.
 *:_T_R_L93
 D:ddd dcd ddd ccc ddd dcd
 
@@ -780,7 +780,7 @@ D:aaa quit aaa quad aaa quip aaa
  :quail quiver inquest marquis
 
 #
-I:Use your S-finger for the X-key.
+I:Use your D-finger for the X-key.
 *:_T_R_L129
 D:sss sxs sss xxx sss sxs sss
 
@@ -790,7 +790,7 @@ D:sss ax sss ox sss vex sss wax xxx
  :exactly sphinx oxygen except thorax
 
 #
-I:Use your A-finger for the Z-key.
+I:Use your S-finger for the Z-key.
 *:_T_R_L130
 D:aaa aza aaa zzz aaa aza aaa
 
@@ -965,7 +965,7 @@ D:jjj j7u jjj 7um jjj u7m jjj
  :Is flight number 377 for Florida a 727, a 737 or a 747?
  :It is a 727 with 4 stops.  With all those stops it takes almost 7 hours.
 
-I:Use your K-finger for the 8-key.
+I:Use your J-finger for the 8-key.
 *:_T_R_L161
 D:kkk k8k kkk k8k kkk k8k kkk
 
@@ -975,7 +975,7 @@ D:kkk k8i kkk 8,i kkk ,i8 kkk
  :Agent 88 was supposed to check in at 8:14.  She is 38 minutes late.
  :Her team was assigned to zone 8 of quadrant 828.  Send 8 more agents.
 
-I:Use your L-finger for the 9-key.
+I:Use your K-finger for the 9-key.
 *:_T_R_L163
 D:lll l9l lll l9l lll l9l lll
 
@@ -985,7 +985,7 @@ D:lll 9.o lll o9. lll l9. lll
  :Oh, 99 bottles of beer on the wall, 99 bottles of beer.
  :If 9 of us take 9 each, there will still be 18 left for the song.
 
-I:Use your ;-finger for the 0-key.
+I:Use your L-finger for the 0-key.
 *:_T_R_L165
 D:;;; ;0; ;;; ;0; ;;; ;0; ;;;
 
@@ -1054,7 +1054,7 @@ D:j6j June j6j much j6j hum j6j
  :j6j y6n j6j u6m j6j h76 j6j
  :j6j 4567 j6j 7654 j6j 6754 j6j
 
-I:The open parenthesis is the shift of the 9-key.  (Use your L-finger).
+I:The open parenthesis is the shift of the 9-key.  (Use your K-finger).
 *:_T_R_L176
 
 *:_T_R_L177
@@ -1063,7 +1063,7 @@ D:l(l (.l l(l 9(9 l(l
 *:_T_R_L178
 D:l(l loop l(l oil l(l only l(l
 
-I:The close parenthesis is the shift of the 0-key.  (Use your ;-finger).
+I:The close parenthesis is the shift of the 0-key.  (Use your L-finger).
 *:_T_R_L179
 D:;;; ;); ;;; ;); ;;; ;);
 
@@ -1212,7 +1212,7 @@ D:;;; ;=; ;;; ;=; ;;; ;=; ;;;
 D:;=; -=- ;=; '=' ;=; :=: ;=;
  :;=; X=2 ;=; Y=3 ;=; Z=0 ;=;
 
-I:Use your K-finger for the asterisk key.
+I:Use your J-finger for the asterisk key.
 *:_T_R_L204
 D:kkk k*k kkk k*k kkk k*k kkk
 
