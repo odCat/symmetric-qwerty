@@ -1,5 +1,6 @@
 # GNU Typist - improved typing tutor program for UNIX systems
 # Copyright (C) 1998  Simon Baldwin (simonb@sco.com)
+# Copyright (C) 2019  Mihai Gătejescu (gus666xe@gmail.com)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -30,7 +31,7 @@ B:                           Introduction
 T:         Welcome to the symmetric QWERTY series
  :
  :These series of lessons are base on the classic Q series, but implement a more 
- :symmetric typing system for the traditional keyboard. 
+ :symmetric typing system for the standard keyboard. 
  :
  :More informations about the symmetric system can be found on the site of the
  :project: https://kennetchaz.github.io/symmetric-typing

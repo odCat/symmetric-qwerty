@@ -1,5 +1,6 @@
 # GNU Typist - improved typing tutor program for UNIX systems
 # Copyright (C) 1998  Simon Baldwin (simonb@sco.com)
+# Copyright (C) 2019  Mihai Gătejescu (gus666xe@gmail.com)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
