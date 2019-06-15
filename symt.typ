@@ -30,7 +30,7 @@ B:                           Introduction
 
 T:         Welcome to the symmetric QWERTY series
  :
- :These series of lessons are base on the classic T series, but implement a more 
+ :These lessons are base on the classic T series, but implement a more 
  :symmetric typing system for the standard keyboard. 
  :
  :More informations about the symmetric system can be found on the site of the
