@@ -22,6 +22,22 @@ G:_Q_MENU
 *:_Q_NO_MENU
 
 #------------------------------------------------------------------------------
+# Intro
+#------------------------------------------------------------------------------
+*:_Q_S_Q1
+B:                           Introduction
+
+T:         Welcome to the symmetric QWERTY series
+ :
+ :These series of lessons are base on the classic Q series, but implement a more 
+ :symmetric typing system for the traditional keyboard. 
+ :
+ :More informations about the symmetric system can be found on the site of the
+ :project: https://kennetchaz.github.io/symmetric-typing
+ :
+ :Enjoy!
+
+#------------------------------------------------------------------------------
 # Lesson Q1
 #------------------------------------------------------------------------------
 *:Q1
@@ -465,8 +481,9 @@ G:_Q_MENU
 # Lesson series Q menu
 #------------------------------------------------------------------------------
 *:_Q_MENU
-B:                      Quick QWERTY course
-M: UP=_EXIT "The Q series contains the following 5 lessons"
+B:                      Quick symmetric QWERTY course
+M: UP=_EXIT "The Q series contains the following lessons"
+ :_Q_S_Q0 "Introduction"
  :_Q_S_Q1 "Lesson Q1     a s d f j k l ; e i"
  :_Q_S_Q2 "Lesson Q2     h g o u n . t"
  :_Q_S_Q3 "Lesson Q3     y r c , ? : p"

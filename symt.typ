@@ -22,6 +22,22 @@ G:_T_MENU
 *:_T_NO_MENU
 
 #------------------------------------------------------------------------------
+# Intro
+#------------------------------------------------------------------------------
+*:_T_S_T0
+B:                           Introduction
+
+T:         Welcome to the symmetric QWERTY series
+ :
+ :These series of lessons are base on the classic T series, but implement a more 
+ :symmetric typing system for the standard keyboard. 
+ :
+ :More informations about the symmetric system can be found on the site of the
+ :project: https://kennetchaz.github.io/symmetric-typing
+ :
+ :Enjoy!
+
+#------------------------------------------------------------------------------
 # Lesson T1
 #------------------------------------------------------------------------------
 *:T1
@@ -1449,8 +1465,9 @@ G:_T_MENU
 # Lesson series T menu
 #------------------------------------------------------------------------------
 *:_T_MENU
-B:                  QWERTY touch typing lessons
-M: UP=_EXIT "The T series contains the following 16 lessons"
+B:                  Symmetric QWERTY touch typing lessons
+M: UP=_EXIT "The T series contains the following lessons"
+ :_T_S_T0  "Indroduction"
  :_T_S_T1  "Lesson T1     a s d f g h j k l ;"
  :_T_S_T2  "Lesson T2     e g h ,"
  :_T_S_T3  "Lesson T3     i r . shift"
